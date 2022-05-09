@@ -7,7 +7,6 @@
 <br>
 
 ## ⛏ Skills
----
 
 ### 💻 Programming Languages  
 
