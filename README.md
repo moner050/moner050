@@ -18,6 +18,8 @@
 ### 🖥 Backend
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Maven-02303A?style=flat-square&logo=Apache Maven&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/></a>
 
 
@@ -30,6 +32,8 @@
 
 ### ⚙️ DevOps
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redis-FF0000?style=flat-square&logo=Redis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>
 
 ### 🛠 Tools
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
